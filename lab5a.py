@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Author ID: hiruthayathas
 # Author Name: Harrison Iruthayathas
+# Date: July 12, 2024
 
 def read_file_string(file_name):
     # Takes file_name as string for a file name, returns its entire contents as a string
